@@ -1,4 +1,4 @@
-# chrispinkney.com
+# https://chrispinkney.com
 
 This repo contains the files that I use to for my personal website.
 
