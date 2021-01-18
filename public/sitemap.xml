@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chrispinkney.com/posts/my-first-post/</loc>
-    <lastmod>2021-01-09T22:51:19-05:00</lastmod>
+    <loc>https://chrispinkney.com/</loc>
+    <lastmod>2021-01-17T21:47:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chrispinkney.com/</loc>
-    <lastmod>2021-01-09T22:51:19-05:00</lastmod>
+    <loc>https://chrispinkney.com/posts/my-second-post/</loc>
+    <lastmod>2021-01-17T21:47:39-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://chrispinkney.com/posts/</loc>
+    <lastmod>2021-01-17T21:47:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chrispinkney.com/posts/my-first-post/</loc>
     <lastmod>2021-01-09T22:51:19-05:00</lastmod>
   </url>
   
