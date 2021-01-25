@@ -1,7 +1,7 @@
-baseURL = "https://chrispinkney.com/"
-languageCode = "en-us"
-title = "chris"
+baseurl = "https://example.com/"
+title = "console-demo"
 theme = "hugo-theme-console"
+languageCode = "en-us"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
@@ -9,17 +9,16 @@ theme = "hugo-theme-console"
 
   # Set the animation style -- https://animate.style/
   # To disable animations, please remove or comment animationStyle parameter
-  animateStyle = "animated fadeIn fast" 
+  animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
   name = "about/"
   url = "about/"
 
-
   [[params.navlinks]]
-  name = "blog/"
-  url = "blog/"
+  name = "posts/"
+  url = "posts/"
   
   [[params.navlinks]]
-  name = "portfolio/"
-  url = "portfolio/"
+  name = "photos/"
+  url = "photos/"
